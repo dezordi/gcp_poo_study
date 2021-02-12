@@ -1,4 +1,4 @@
-google cloud computing - Object Oriented Programming - Python study
+Google Cloud Computing - Object Oriented Programming - Python study
 =========
 
 

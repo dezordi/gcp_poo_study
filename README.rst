@@ -16,7 +16,7 @@ First Steps
     conda env create -f gcp_poo_study.yml -n <enviroment_name>
     conda activate <enviroment_name>
     
-**Set Google authentication
+**Set Google authentication**
 - Follow this guide: https://cloud.google.com/docs/authentication/getting-started
 
 =====
@@ -30,14 +30,14 @@ Usage
     
     python main_bq.py --help
 
-**To recovery sra of specific family
+**To recovery sra of specific family**
 
 .. code:: bash
 
     python main_bq.py -tx Coronaviridae
 
 
-**To recovery sra of a specific list of organisms
+**To recovery sra of a specific list of organisms**
 
 .. code:: bash
 
